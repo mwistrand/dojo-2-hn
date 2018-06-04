@@ -9,7 +9,6 @@
   },
   "devDependencies": {
     "@dojo/cli-build-app": "./deps/dojo-cli-build-app-2.0.1-rc.1.tgz",
-    "@dojo/webpack-contrib": "./deps/dojo-webpack-contrib-2.0.1-rc.1.tgz",
     "typescript": "~2.6.1"
   }
 }
